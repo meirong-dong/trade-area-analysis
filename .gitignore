@@ -1,0 +1,3 @@
+data/singapore/*.kml
+data/singapore/*.geojson
+.venv/ 
